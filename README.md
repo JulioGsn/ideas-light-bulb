@@ -1,5 +1,7 @@
 # Having great ideas? It's like having a light bulb in your brain
 
+![Alt text](./src/ligh-bulb-ideas.png)
+
 ### By the way...
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
